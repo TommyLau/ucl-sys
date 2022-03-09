@@ -1,6 +1,6 @@
 [package]
 name = "ucl-sys"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Tommy Lau <tommy.lhg@gmail.com>"]
 edition = "2021"
 description = "UCL bindings for rust"
