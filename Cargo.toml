@@ -1,7 +1,18 @@
 [package]
 name = "ucl-sys"
 version = "0.1.0"
+authors = ["Tommy Lau <tommy.lhg@gmail.com>"]
 edition = "2021"
+description = "UCL bindings for rust"
+documentation = "https://github.com/TommyLau/ucl-sys"
+readme = "README.md"
+homepage = "https://github.com/TommyLau/ucl-sys"
+repository = "https://github.com/TommyLau/ucl-sys"
+license = "GPL-2.0"
+keywords = ["ucl", "libucl", "nrv", "compress", "decompress"]
+categories = ["api-bindings", "compression", "external-ffi-bindings"]
+build = "build.rs"
+links = "ucl"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
